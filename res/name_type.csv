@@ -1,0 +1,725 @@
+Adorable Kitten,Host Creature - Cat
+Soul Warden,Creature - Human Cleric
+Weathered Wayfarer,Creature - Human Nomad Cleric
+Adorned Pouncer,Creature - Cat
+Daring Skyjek,Creature - Human Knight
+Hidden Dragonslayer,Creature - Human Warrior
+Serra Avenger,Creature - Angel
+Tithe Taker,Creature - Human Soldier
+True Believer,Creature - Human Cleric
+Aven Mindcensor,Creature - Bird Wizard
+Bygone Bishop,Creature - Spirit Cleric
+Diving Griffin,Creature - Griffin
+Frontline Medic,Creature - Human Cleric
+Kinjalli's Sunwing,Creature - Dinosaur
+Master Trinketeer,Creature - Dwarf Artificer
+Mirror Entity,Creature - Shapeshifter
+Ordinary Pony,Host Creature - Horse
+Pianna,3
+Proud Mentor,Creature - Human Warrior
+Roc Egg,Creature - Bird Egg
+Thraben Doomsayer,Creature - Human Cleric
+Aetherstorm Roc,Creature - Bird
+Galepowder Mage,Creature - Kithkin Wizard
+High Sentinels of Arashin,Creature - Bird Soldier
+Belfry Spirit,Creature - Spirit
+Herald of War,Creature - Angel
+Lightwielder Paladin,Creature - Human Knight
+Pulmonic Sliver,Creature - Sliver
+Wingmate Roc,Creature - Bird
+Mirror-Sigil Sergeant,Creature - Rhino Soldier
+Akroma,8
+Ajani,4
+Gideon,4
+Chivalrous Chevalier,Artifact Creature - Cyborg Knight
+Alley Evasion,Instant
+Condemn,Instant
+Djeru's Resolve,Instant
+Harm's Way,Instant
+Mana Tithe,Instant
+Disenchant,Instant
+Eerie Interlude,Instant
+Exile,Instant
+Divine Deflection,Instant
+Retribution of the Meek,Sorcery
+Cataclysm,Sorcery
+Divine Reckoning,Sorcery
+Dusk // Dawn,Sorcery
+Global Ruin,Sorcery
+Increasing Devotion,Sorcery
+Rout,Sorcery
+Feudkiller's Verdict,Tribal Sorcery - Giant
+Nomads' Assembly,Sorcery
+Phyrexian Rebirth,Sorcery
+Planar Cleansing,Sorcery
+Cartouche of Solidarity,Enchantment - Aura Cartouche
+Porphyry Nodes,Enchantment
+Intangible Virtue,Enchantment
+Sacred Ground,Enchantment
+Soulcatchers' Aerie,Enchantment
+Spirit Loop,Enchantment - Aura
+Gift of Immortality,Enchantment - Aura
+Trial of Solidarity,Enchantment
+Heliod's Emissary,Enchantment Creature - Elk
+Hedron Crab,Creature - Crab
+Coralhelm Guide,Creature - Merfolk Scout Ally
+Dream Thrush,Creature - Bird
+Dreamscape Artist,Creature - Human Spellshaper
+Lighthouse Chronologist,Creature - Human Wizard
+Storm Crow,Token Creature - Bird
+Stratus Dancer,Creature - Djinn Monk
+Timestream Navigator,Creature - Human Pirate Wizard
+Willbender,Creature - Human Wizard
+Exultant Cultist,Creature - Human Wizard
+Hinterland Drake,Creature - Drake
+Keeper of the Nine Gales,Creature - Bird Wizard
+Leech Bonder,Creature - Merfolk Soldier
+Raven Familiar,Creature - Bird
+Shaper Parasite,Creature - Illusion
+Simic Fluxmage,Creature - Merfolk Wizard
+Stealer of Secrets,Creature - Human Rogue
+Wormfang Drake,Creature - Nightmare Drake
+Chronozoa,Creature - Illusion
+Numbing Jellyfish,Host Creature - Jellyfish
+Reef Worm,Creature - Worm
+Sakashima's Student,Creature - Human Ninja
+Somnophore,Creature - Illusion
+Whirler Rogue,Creature - Human Rogue Artificer
+Wonder,Creature - Incarnation
+Clocknapper,Creature - Human Spy
+Deepglow Skate,Creature - Fish
+Djinn of Wishes,Creature - Djinn
+Magus of the Future,Creature - Human Wizard
+Mulldrifter,Creature - Elemental
+Scalpelexis,Creature - Beast
+Vesuvan Shapeshifter,Creature - Shapeshifter
+Brine Elemental,Creature - Elemental
+Sphinx of the Final Word,Creature - Sphinx
+Jace,5
+Esperzoa,Artifact Creature - Jellyfish
+Brainstorm,Instant
+Divert,Instant
+Opt,Instant
+Swan Song,Instant
+Unsummon,Instant
+Counterspell,Instant
+Redirect,Instant
+Revolutionary Rebuff,Instant
+Dissolve,Instant
+Dream Fracture,Instant
+Fated Infatuation,Instant
+Forbidden Alchemy,Instant
+Spell Crumple,Instant
+Force of Will,Instant
+Condescend,Instant
+Preordain,Sorcery
+Sleight of Hand,Sorcery
+Fade Away,Sorcery
+Telemin Performance,Sorcery
+Karn's Temporal Sundering,Legendary Sorcery
+Stolen Identity,Sorcery
+Unstable Mutation,Enchantment - Aura
+Cartouche of Knowledge,Enchantment - Aura Cartouche
+Ice Over,Enchantment - Aura
+Control Magic,Enchantment - Aura
+Corrupted Conscience,Enchantment - Aura
+Inexorable Tide,Enchantment
+Mist of Stagnation,Enchantment
+Thassa's Emissary,Enchantment Creature - Crab
+Mindlash Sliver,Creature - Sliver
+Ruthless Ripper,Creature - Human Assassin
+Snickering Squirrel,Creature - Squirrel Advisor
+Black Cat,Creature - Zombie Cat
+Dirty Rat,Host Creature - Rat
+Gloom Surgeon,Creature - Spirit
+Nezumi Graverobber,Creature - Rat Rogue
+Silent Assassin,Creature - Human Mercenary Assassin
+Silumgar Assassin,Creature - Human Assassin
+Skirsdag High Priest,Creature - Human Cleric
+Stromgald Crusader,Creature - Zombie Knight
+Cunning Lethemancer,Creature - Human Wizard
+Dusk Urchins,Creature - Ouphe
+Fleshbag Marauder,Creature - Zombie Warrior
+Geralf's Messenger,Creature - Zombie
+Liliana,3
+Maralen of the Mornsong,Legendary Creature - Elf Wizard
+Steady-Handed Mook,Creature - Human Rigger
+Undercity Informer,Creature - Human Rogue
+Abyssal Persecutor,Creature - Demon
+Big Boa Constrictor,Host Creature - Snake
+Gravedigger,Creature - Zombie
+Nekrataal,Creature - Human Assassin
+Toxin Sliver,Creature - Sliver
+Corpse Connoisseur,Creature - Zombie Wizard
+Stinging Scorpion,Host Creature - Scorpion
+Kothophed,6
+Tetzimoc,6
+Phage the Untouchable,Legendary Creature - Avatar Minion
+Griselbrand,Legendary Creature - Demon
+Executioner's Capsule,Artifact
+Dark Ritual,Instant
+Ulcerate,Instant
+Go for the Throat,Instant
+Grasp of Darkness,Instant
+Urborg Justice,Instant
+Rescue from the Underworld,Instant
+Chainer's Edict,Sorcery
+Demonic Tutor,Sorcery
+Smallpox,Sorcery
+Stitch Together,Sorcery
+Bontu's Last Reckoning,Sorcery
+Cry of the Carnarium,Sorcery
+Golden Demise,Sorcery
+Grim Captain's Call,Sorcery
+Hand of Death,Sorcery
+Consuming Vapors,Sorcery
+Eliminate the Competition,Sorcery
+Living Death,Sorcery
+Monomania,Sorcery
+Quest for the Gravelord,Enchantment
+Trial of Ambition,Enchantment
+Cartouche of Ambition,Enchantment - Aura Cartouche
+Recurring Nightmare,Enchantment
+Underworld Connections,Enchantment - Aura
+Demonic Rising,Enchantment
+Descent into Madness,Enchantment
+Painful Quandary,Enchantment
+Erebos's Emissary,Enchantment Creature - Snake
+Dragonmaster Outcast,Creature - Human Shaman
+Kird Ape,Creature - Ape
+Striking Sliver,Creature - Sliver
+Stromkirk Noble,Creature - Vampire Noble
+Common Iguana,Host Creature - Lizard
+Dragon Whisperer,Creature - Human Shaman
+Dwarven Miner,Creature - Dwarf
+Frazzled Editor,Creature - Human Bureaucrat
+Ire Shaman,Creature - Orc Shaman
+Tilonalli's Summoner,Creature - Human Shaman
+Young Pyromancer,Creature - Human Shaman
+Combat Celebrant,Creature - Human Warrior
+Flamespeaker Adept,Creature - Human Shaman
+Impetuous Protege,Creature - Human Warrior
+Kruin Outlaw,Creature - Human Rogue Werewolf
+Manic Vandal,Creature - Human Warrior
+Sin Prodder,Creature - Devil
+Taurean Mauler,Creature - Shapeshifter
+Volatile Chimera,Creature - Elemental Chimera
+Amplifire,Creature - Elemental
+Anger,Creature - Incarnation
+Avaricious Dragon,Creature - Dragon
+Bumbling Pangolin,Host Creature - Pangolin Beast
+Captivating Crew,Creature - Human Pirate
+Flametongue Kavu,Creature - Kavu
+Hellrider,Creature - Devil
+Pia and Kiran Nalaar,Legendary Creature - Human Artificer
+Rukh Egg,Creature - Bird Egg
+Feisty Stegosaurus,Host Creature - Dinosaur
+Garbage Elemental,Creature - Elemental
+Garbage Elemental,Creature - Elemental
+Hoarding Dragon,Creature - Dragon
+Urabrask the Hidden,Legendary Creature - Praetor
+Conquering Manticore,Creature - Manticore
+Inferno Titan,Creature - Giant
+Bedlam Reveler,Creature - Devil Horror
+Sarkhan,3
+Chandra,4
+Chandra,4
+False Orders,Instant
+Red Elemental Blast,Instant
+Price of Progress,Instant
+Dance with Devils,Instant
+Grab the Reins,Instant
+Savage Beating,Instant
+Steamfloggery,Instant
+Faithless Looting,Sorcery
+Reckless Charge,Sorcery
+Devastating Dreams,Sorcery
+Pyroclasm,Sorcery
+Arc Lightning,Sorcery
+Flames of the Firebrand,Sorcery
+Hordeling Outburst,Sorcery
+Fiery Confluence,Sorcery
+Earthquake,Sorcery
+Jokulhaups,Sorcery
+Insurrection,Sorcery
+Warp World,Sorcery
+Blasphemous Act,Sorcery
+Cartouche of Zeal,Enchantment - Aura Cartouche
+Goblin Bombardment,Enchantment
+Sulfuric Vortex,Enchantment
+Trial of Zeal,Enchantment
+Pandemonium,Enchantment
+Hammer of Purphoros,Legendary Enchantment Artifact
+Birds of Paradise,Creature - Bird
+Birds of Paradise,Creature - Bird
+Diligent Farmhand,Creature - Human Druid
+Scute Mob,Creature - Insect
+Skyshroud Elite,Creature - Elf
+Squirrel Dealer,Creature - Raccoon Lizard Bird
+Deathcap Cultivator,Creature - Human Druid
+Den Protector,Creature - Human Warrior
+Gemhide Sliver,Creature - Sliver
+Grizzly Bears,Creature - Bear
+Hungry Lynx,Creature - Cat
+Mayor of Avabruck,Creature - Human Advisor Werewolf
+Naga Vitalist,Creature - Naga Druid
+Quirion Elves,Creature - Elf Druid
+Rattleclaw Mystic,Creature - Human Shaman
+Sakura-Tribe Elder,Creature - Snake Shaman
+Sakura-Tribe Elder,Creature - Snake Shaman
+Wild Crocodile,Host Creature - Crocodile
+Eager Beaver,Host Creature - Beaver
+Eternal Witness,Creature - Human Shaman
+Generous Patron,Creature - Elf Advisor
+Leovold's Operative,Creature - Elf Rogue
+Nissa,3
+Phantom Nantuko,Creature - Insect Spirit
+Pir,3
+Squirrel Mob,Creature - Squirrel
+Yavimaya Elder,Creature - Human Druid
+Yavimaya Elder,Creature - Human Druid
+Forgotten Ancient,Creature - Elemental
+Lhurgoyf,Creature - Lhurgoyf
+Quarry Hauler,Creature - Camel
+Squirrel Wrangler,Creature - Human Druid
+Indrik Stomphowler,Creature - Beast
+Mother Kangaroo,Host Creature - Kangaroo
+Seedborn Muse,Creature - Spirit
+Silklash Spider,Creature - Spider
+Earl of Squirrel,Creature - Squirrel Noble Advisor
+Nut Collector,Creature - Human Druid
+Nut Collector,Creature - Human Druid
+Hooded Hydra,Creature - Snake Hydra
+Slaying Mantis,Creature - Insect Wrestler
+Hydradoodle,Creature - Hydra Hound
+Garruk Wildspeaker,Legendary Planeswalker - Garruk
+Blossoming Defense,Instant
+Might of Old Krosa,Instant
+Tangle,Instant
+Titanic Growth,Instant
+Harrow,Instant
+Krosan Grip,Instant
+Beast Attack,Instant
+Squall Line,Instant
+Elephant Resurgence,Sorcery
+Farseek,Sorcery
+Life from the Loam,Sorcery
+Regrowth,Sorcery
+Sylvan Scrying,Sorcery
+Cultivate,Sorcery
+Hypergenesis,Sorcery
+Mouth // Feed,Sorcery
+Recross the Paths,Sorcery
+Search for Tomorrow,Sorcery
+Bramblecrush,Sorcery
+Peregrination,Sorcery
+Tooth and Nail,Sorcery
+Evolutionary Leap,Enchantment
+Song of Freyalise,Enchantment - Saga
+Beastmaster Ascension,Enchantment
+Cartouche of Strength,Enchantment - Aura Cartouche
+Curse of Predation,Enchantment - Aura Curse
+Squirrel Nest,Enchantment - Aura
+Aid from the Cowl,Enchantment
+Doubling Season,Enchantment
+Saproling Burst,Enchantment
+The Mending of Dominaria,Enchantment - Saga
+Lurking Predators,Enchantment
+Nylea's Emissary,Enchantment Creature - Cat
+Judge's Familiar,Creature - Bird
+Battlewise Hoplite,Creature - Human Soldier
+Mistmeadow Witch,Creature - Kithkin Wizard
+Sejiri Merfolk,Creature - Merfolk Soldier
+Grand Arbiter Augustin IV,Legendary Creature - Human Advisor
+Swans of Bryn Argoll,Creature - Bird Spirit
+Azor's Elocutors,Creature - Human Advisor
+Lavinia of the Tenth,Legendary Creature - Human Soldier
+Dovin Baan,Legendary Planeswalker - Dovin
+Venser,5
+Failure // Comply,Instant
+Farm // Market,Instant
+Aethermage's Touch,Instant
+Ojutai's Command,Instant
+Reviving Vapors,Instant
+Sphinx's Revelation,Instant
+Supreme Verdict,Sorcery
+Hibernation Sliver,Creature - Sliver
+Sygg,2
+Vodalian Hypnotist,Creature - Merfolk Wizard
+X,Legendary Creature - Human Spy
+Shadowmage Infiltrator,Creature - Human Wizard
+Siren of the Silent Song,Creature - Zombie Siren
+Benthic Djinn,Creature - Djinn
+Duskmantle Seer,Creature - Vampire Wizard
+Etrata,4
+Hostage Taker,Creature - Human Pirate
+Nemesis of Reason,Creature - Leviathan Horror
+Oona,6
+Baleful Strix,Artifact Creature - Bird
+Baleful Strix,Artifact Creature - Bird
+Mask of Riddles,Artifact - Equipment
+Far // Away,Instant
+Undermine,Instant
+Rags // Riches,Sorcery
+Whispering Madness,Sorcery
+Tezzeret's Touch,Enchantment - Aura
+Rakdos Cackler,Creature - Devil
+Tymaret,2
+Shambling Remains,Creature - Zombie Horror
+Blazing Specter,Creature - Specter
+Kulrath Knight,Creature - Elemental Knight
+Kolaghan's Command,Instant
+Void,Sorcery
+Rakdos's Return,Sorcery
+Spiteful Visions,Enchantment
+Burning-Tree Emissary,Creature - Human Shaman
+Burning-Tree Emissary,Creature - Human Shaman
+Raging Kavu,Creature - Kavu
+Bloodbraid Elf,Creature - Elf Berserker
+Ghor-Clan Rampager,Creature - Beast
+Huntmaster of the Fells,Creature - Human Werewolf
+Polis Crusher,Creature - Cyclops
+Harbinger of the Hunt,Creature - Dragon
+Zhur-Taa Ancient,Creature - Beast
+Domri Rade,Legendary Planeswalker - Domri
+Violent Outburst,Instant
+Driven // Despair,Sorcery
+Hull Breach,Sorcery
+Stormbind,Enchantment
+Cramped Bunker,Enchantment
+Dryad Militant,Creature - Dryad Soldier
+Saffi Eriksdotter,Legendary Creature - Human Scout
+Harmonic Sliver,Creature - Sliver
+Renegade Rallier,Creature - Human Warrior
+Veteran Warleader,Creature - Human Soldier Ally
+Wayfaring Temple,Creature - Elemental
+Dr. Julius Jumblemorph,Legendary Creature
+Heron's Grace Champion,Creature - Human Knight
+Mystic Enforcer,Creature - Human Nomad Mystic
+Armada Wurm,Creature - Wurm
+Sabertooth Nishoba,Creature - Cat Beast Warrior
+Wax // Wane,Instant
+Selesnya Charm,Instant
+Advent of the Wurm,Instant
+Alive // Well,Sorcery
+Captured Sunlight,Sorcery
+Unflinching Courage,Enchantment - Aura
+Glare of Subdual,Enchantment
+Cartel Aristocrat,Creature - Human Advisor
+High Priest of Penance,Creature - Human Cleric
+Necrotic Sliver,Creature - Sliver
+Sin Collector,Creature - Human Cleric
+Treasury Thrull,Creature - Thrull
+Ashen Rider,Creature - Archon
+Kaya,4
+Sorin,4
+Tidehollow Sculler,Artifact Creature - Zombie
+Anguished Unmaking,Instant
+Lingering Souls,Sorcery
+Death Grasp,Sorcery
+Primevals' Glorious Rebirth,Legendary Sorcery
+Hidden Stockpile,Enchantment
+Gift of Orzhova,Enchantment - Aura
+Debtors' Knell,Enchantment
+Deathrite Shaman,Creature - Elf Shaman
+Lotleth Troll,Creature - Zombie Troll
+Putrid Leech,Creature - Zombie Leech
+Slimefoot,3
+Corpsejack Menace,Creature - Fungus
+Creakwood Liege,Creature - Horror
+Reaper of the Wilds,Creature - Gorgon
+Vhati il-Dal,Legendary Creature - Human Warrior
+Marrow Chomper,Creature - Zombie Lizard
+Nath of the Gilt-Leaf,Legendary Creature - Elf Warrior
+Putrefy,Instant
+Maelstrom Pulse,Sorcery
+Deadbridge Chant,Enchantment
+Nyx Weaver,Enchantment Creature - Spider
+Zameck Guildmage,Creature - Elf Wizard
+Bounding Krasis,Creature - Fish Lizard
+Gilder Bairn,Creature - Ouphe
+Trygon Predator,Creature - Beast
+Vorel of the Hull Clade,Legendary Creature - Human Merfolk
+Fathom Mage,Creature - Human Wizard
+Sages of the Anima,Creature - Elf Wizard
+Sages of the Anima,Creature - Elf Wizard
+Nissa,2
+Simic Charm,Instant
+Give // Take,Sorcery
+Spring // Mind,Sorcery
+Unexpected Results,Sorcery
+Enigma Drake,Creature - Drake
+Frenetic Sliver,Creature - Sliver
+Jhoira of the Ghitu,Legendary Creature - Human Wizard
+Spellheart Chimera,Creature - Chimera
+Dack's Duplicate,Creature - Shapeshifter
+Hypersonic Dragon,Creature - Dragon
+Fire // Ice,Instant
+Izzet Charm,Instant
+Electrolyze,Instant
+Reduce // Rubble,Instant
+Refuse // Cooperate,Instant
+Suffocating Blast,Instant
+Prophetic Bolt,Instant
+Firemind's Foresight,Instant
+Blast of Genius,Sorcery
+Honored Crop-Captain,Creature - Human Warrior
+Boros Reckoner,Creature - Minotaur Wizard
+Brion Stoutarm,Legendary Creature - Giant Warrior
+Bruse Tarl,4
+Firemane Avenger,Creature - Angel
+Soltari Guerrillas,Creature - Soltari Soldier
+Bull Cerodon,Creature - Beast
+Deflecting Palm,Instant
+Warleader's Helix,Instant
+Aurelia's Fury,Instant
+Assemble the Legion,Enchantment
+Scarland Thrinax,Creature - Lizard
+Sprouting Thrinax,Creature - Lizard
+Shattergang Brothers,Legendary Creature - Goblin Artificer
+Sek'Kuar,5
+Wasitora,5
+Darigaaz's Charm,Instant
+Jund Charm,Instant
+Flesh // Blood,Sorcery
+Cylian Sunsinger,Creature - Elf Shaman
+Naya Battlemage,Creature - Human Shaman
+Thornscape Battlemage,Creature - Elf Wizard
+Retaliator Griffin,Creature - Griffin
+Rith,6
+Rith's Charm,Instant
+Pure // Simple,Sorcery
+Noble Hierarch,Creature - Human Druid
+Sunscape Apprentice,Creature - Human Wizard
+Rhox War Monk,Creature - Rhino Monk
+Sunscape Battlemage,Creature - Human Wizard
+Sunscape Master,Creature - Human Wizard
+Tamiyo,4
+Bant Charm,Instant
+Beck // Call,Sorcery
+Supply // Demand,Sorcery
+Merieke Ri Berit,Legendary Creature - Human
+Dromar,6
+Scornful Aether-Lich,Artifact Creature - Zombie Wizard
+Sludge Strider,Artifact Creature - Insect
+Sharuum the Hegemon,Legendary Artifact Creature - Sphinx
+Enigma Sphinx,Artifact Creature - Sphinx
+Sphinx Sovereign,Artifact Creature - Sphinx
+Esper Charm,Instant
+Resounding Wave,Instant
+Grixis Battlemage,Creature - Human Wizard
+Sedraxis Specter,Creature - Specter
+Sol'kanar the Swamp King,Legendary Creature - Demon
+Garza Zol,7
+Grixis Charm,Instant
+Elder Mastery,Enchantment - Aura
+Mantis Rider,Creature - Human Monk
+Lightning Angel,Creature - Angel
+Zedruu the Greathearted,Legendary Creature - Minotaur Monk
+Sage of the Inward Eye,Creature - Djinn Wizard
+Flying Crane Technique,Instant
+Degavolver,Creature - Volver
+Alesha,3
+Brutal Hordechief,Creature - Orc Warrior
+Butcher of the Horde,Creature - Demon
+Kaalia of the Vast,Legendary Creature - Human Cleric
+Oros,6
+Tariel,7
+Crackling Doom,Instant
+Mardu Charm,Instant
+Warden of the First Tree,Creature - Human
+Anafenza,3
+Necravolver,Creature - Volver
+Daghatar the Adamant,Legendary Creature - Human Warrior
+Siege Rhino,Creature - Rhino
+Teneb,6
+Abzan Charm,Instant
+Sidisi,4
+The Mimeoplasm,Legendary Creature - Ooze
+Kheru Lich Lord,Creature - Zombie Wizard
+Muldrotha,6
+Vorosh,6
+Damia,7
+Villainous Wealth,Sorcery
+Yasova Dragonclaw,Legendary Creature - Human Warrior
+Bear's Companion,Creature - Human Warrior
+Surrak Dragonclaw,Legendary Creature - Human Warrior
+Intet,6
+Maelstrom Wanderer,Legendary Creature - Elemental
+Sarkhan Unbroken,Legendary Planeswalker - Sarkhan
+Temur Charm,Instant
+Atraxa,4
+Urza,5
+Half-Kitten,0
+Half-Squirrel,0
+Humming-,Creature - Bird
+Multi-Headed,Creature - Hydra
+Ninja,Creature - Ninja
+Zombified,Creature - Zombie
+Elder Deep-Fiend,Creature - Eldrazi Octopus
+Karn Liberated,Legendary Planeswalker - Karn
+Ornithopter,Artifact Creature - Thopter
+Ornithopter,Artifact Creature - Thopter
+Burnished Hart,Artifact Creature - Elk
+Opaline Unicorn,Artifact Creature - Unicorn
+Pilgrim's Eye,Artifact Creature - Thopter
+Voracious Vacuum,Artifact Host Creature - Construct
+Crystalline Crawler,Artifact Creature - Construct
+Gnome-Made Engine,Artifact Host Creature - Construct
+Solemn Simulacrum,Artifact Creature - Golem
+Crosis's Attendant,Artifact Creature - Golem
+Labro Bot,Artifact Host Creature - Hound
+Soul of New Phyrexia,Artifact Creature - Avatar
+Soul of New Phyrexia,Artifact Creature - Avatar
+Thopter Assembly,Artifact Creature - Thopter
+Angelic Rocket,Artifact Host Creature - Angel
+Lotus Bloom,Artifact
+Lotus Petal,Artifact
+Mishra's Bauble,Artifact
+Urza's Bauble,Artifact
+Darkwater Egg,Artifact
+Elixir of Immortality,Artifact
+Expedition Map,Artifact
+Infiltration Lens,Artifact - Equipment
+Silver-Inlaid Dagger,Artifact - Equipment
+Skullclamp,Artifact - Equipment
+Skycloud Egg,Artifact
+Sungrass Egg,Artifact
+Wayfarer's Bauble,Artifact
+Ankh of Mishra,Artifact
+Armillary Sphere,Artifact
+Boros Signet,Artifact
+Cloak and Dagger,Tribal Artifact - Rogue Equipment
+Dimir Signet,Artifact
+Howling Mine,Artifact
+Illusionist's Bracers,Artifact - Equipment
+Krark's Other Thumb,Legendary Artifact
+Mortarpod,Artifact - Equipment
+Mycosynth Wellspring,Artifact
+Orzhov Signet,Artifact
+Prismatic Lens,Artifact
+Simic Signet,Artifact
+Smuggler's Copter,Artifact - Vehicle
+Sphere of the Suns,Artifact
+Swiftfoot Boots,Artifact - Equipment
+Sword of the Animist,Legendary Artifact - Equipment
+Talisman of Indulgence,Artifact
+Talisman of Unity,Artifact
+Chromatic Lantern,Artifact
+Crystal Ball,Artifact
+Darksteel Ingot,Artifact
+Disrupting Scepter,Artifact
+Dragon Blood,Artifact
+Drake-Skull Cameo,Artifact
+Gruul Keyrune,Artifact
+Mad Science Fair Project,Artifact
+Obelisk of Bant,Artifact
+Orzhov Keyrune,Artifact
+Simic Keyrune,Artifact
+Sol Grail,Artifact
+Sword of Dungeons & Dragons,Artifact - Equipment
+Tenza,3
+Thousand-Year Elixir,Artifact
+Haunted Plate Mail,Artifact - Equipment
+Khalni Gem,Artifact
+Moonsilver Spear,Artifact - Equipment
+Panharmonicon,Artifact
+Argentum Armor,Artifact - Equipment
+Obelisk of Alara,Artifact
+Eldrazi Conscription,Tribal Enchantment - Eldrazi Aura
+Akoum Refuge,Land
+Ancient Ziggurat,Land
+Arcane Lighthouse,Land
+Blackcleave Cliffs,Land
+Boreal Shelf,Snow Land
+Boros Garrison,Land
+Caldera Lake,Land
+Cascade Bluffs,Land
+Caves of Koilos,Land
+Cinder Marsh,Land
+City of Ass,Land
+Cloudcrest Lake,Land
+Crumbling Necropolis,Land
+Darigaaz's Caldera,Land - Lair
+Dimir Aqueduct,Land
+Dimir Guildgate,Land - Gate
+Drowned Catacomb,Land
+Elfhame Palace,Land
+Fetid Heath,Land
+Flagstones of Trokair,Legendary Land
+Frontier Bivouac,Land
+Fungal Reaches,Land
+Graven Cairns,Land
+Graypelt Refuge,Land
+Highland Weald,Snow Land
+Jungle Shrine,Land
+Jwar Isle Refuge,Land
+Kazandu Refuge,Land
+Lavaclaw Reaches,Land
+Memorial to Glory,Land
+Murmuring Bosk,Land - Forest
+Orzhov Basilica,Land
+Pendelhaven,Legendary Land
+Rakdos Carnarium,Land
+Razorverge Thicket,Land
+Reflecting Pool,Land
+Rootbound Crag,Land
+Rupture Spire,Land
+Sacred Foundry,Land - Mountain Plains
+Seaside Citadel,Land
+Sejiri Refuge,Land
+Shivan Gorge,Legendary Land
+Shivan Oasis,Land
+Shivan Reef,Land
+Simic Growth Chamber,Land
+Springjack Pasture,Land
+Sulfur Falls,Land
+Sulfurous Springs,Land
+Sunpetal Grove,Land
+Temple of Deceit,Land
+Temple of Plenty,Land
+Temple of Silence,Land
+Terminal Moraine,Land
+Terramorphic Expanse,Land
+Tranquil Garden,Land
+Tresserhorn Sinks,Snow Land
+Treva's Ruins,Land - Lair
+Unstable Frontier,Land
+Vivid Creek,Land
+Vivid Grove,Land
+Vivid Marsh,Land
+Vivid Meadow,Land
+Wastes,Basic Land
+Dryad Arbor,Land Creature - Forest Dryad
+Hired Heist,Conspiracy
+Natural Unity,Conspiracy
+Ach! Hans,6
+Cruel Ultimatum,Sorcery
+Archfiend of Ifnir,Creature - Demon
+Fact or Fiction,Instant
+Sengir Vampire,Creature - Vampire
+Cunning Lethemancer,Creature - Human Wizard
+Abhorrent Overlord,Creature - Demon
+Aboshan,6
+Reborn Hero,Creature - Human Soldier
+Demonic Consultation,Instant
+Qarsi High Priest,Creature - Human Cleric
+Grixis Grimblade,Creature - Zombie Warrior
+Temur Ascendancy,Enchantment
+Witch-Maw Nephilim,Creature - Nephilim
+Arlinn Kord,Legendary Planeswalker - Arlinn
+Cauldron of Souls,Artifact
+Fowl Play,Enchantment - Aura
+Fungal Sprouting,Sorcery
+Harvest Season,Sorcery
+Char,Instant
+Thorn of the Black Rose,Creature - Human Assassin
+Party Crasher,Creature - Goblin Berserker
+Magus of the Vineyard,Creature - Human Wizard
+Possibility Storm,Enchantment
+Greater Gargadon,Creature - Beast
+Emmara,2
+Compulsory Rest,Enchantment - Aura
+Wrecking Ball,Instant
+Terror,Instant
+Savannah Lions,Creature - Cat
