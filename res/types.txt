@@ -7,7 +7,7 @@ Artificer job
 Assassin job
 Avatar job
 Bear animal
-Beast job
+Beast bs
 Beaver animal
 Berserker job
 Bird animal
@@ -36,7 +36,7 @@ Elemental bs
 Elf myth
 Elk animal
 Fish animal
-Forest animal
+Forest job
 Fungus animal
 Giant myth
 Goblin myth

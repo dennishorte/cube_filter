@@ -54,6 +54,15 @@ class MetatribeManager(object):
     def is_metatribe(self, card, tribe):
         return tribe in self.card_tribes(card)
 
+    def split_by_tribe(self, card_list):
+        tribes = {tribe: set() for tribe in MetatribeManager.metatribe_names}
+        for tribe in tribes:
+            for card in card_list:
+                if self.is_metatribe(card, tribe):
+                    tribes[tribe].add(card)
+        return tribes
+        
+
     def card_tribes(self, card):
         tribes = [self.type_to_tribe[x] for x in card.subtypes]
         tribes += self.special_tribes.get(card.name, [])

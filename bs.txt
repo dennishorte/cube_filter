@@ -1,0 +1,39 @@
+ 5. Stromkirk Noble                Vampire, Noble       R     1
+ 6. Coralhelm Guide                Merfolk, Scout, Ally U     2
+ 8. Gemhide Sliver                 Sliver               G     2
+ 9. Naga Vitalist                  Naga, Druid          G     2
+10. Mistmeadow Witch               Kithkin, Wizard      UW    2
+11. Sejiri Merfolk                 Merfolk, Soldier     U     2
+13. Vodalian Hypnotist             Merfolk, Wizard      BU    2
+14. Tidehollow Sculler             Zombie               BW    2
+15. Degavolver                     Volver               BRW   2
+16. Grixis Grimblade               Zombie, Warrior      BRU   2
+17. Mirror Entity                  Shapeshifter         W     3
+19. Shaper Parasite                Illusion             U     3
+22. Fleshbag Marauder              Zombie, Warrior      B     3
+24. Taurean Mauler                 Shapeshifter         R     3
+25. Shambling Remains              Zombie, Horror       BR    3
+28. Wayfaring Temple               Elemental            GW    3
+30. Gilder Bairn                   Ouphe                GU    3
+32. Sedraxis Specter               Specter              BRU   3
+34. Pilgrim's Eye                  Thopter                    3
+36. Galepowder Mage                Kithkin, Wizard      W     4
+38. Somnophore                     Illusion             U     4
+39. Wonder                         Incarnation          U     4
+40. Gravedigger                    Zombie               B     4
+43. Anger                          Incarnation          R     4
+48. Blazing Specter                Specter              BR    4
+49. Creakwood Liege                Horror               BG    4
+50. Dack's Duplicate               Shapeshifter         RU    4
+51. Soltari Guerrillas             Soltari, Soldier     RW    4
+53. Crystalline Crawler            Construct                  4
+55. Witch-Maw Nephilim             Nephilim             BGUW  4
+57. Chivalrous Chevalier           Cyborg, Knight       W     5
+58. Mulldrifter                    Elemental            U     5
+63. Urabrask the Hidden            Praetor              R     5
+64. Kulrath Knight                 Elemental, Knight    BR    5
+66. Sengir Vampire                 Vampire              B     5
+69. Treasury Thrull                Thrull               BW    6
+70. Kheru Lich Lord                Zombie, Wizard       BGU   6
+71. Thopter Assembly               Thopter                    6
+72. Ashen Rider                    Archon               BW    8

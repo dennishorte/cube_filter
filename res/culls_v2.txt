@@ -1,0 +1,136 @@
+Mythological
+00. Multi-Headed                   Hydra                G     0
+04. Deathrite Shaman               Elf, Shaman          BG    1
+05. Dwarven Miner                  Dwarf                R     2
+09. Hydradoodle                    Hydra, Hound         G     2
+15. Hinterland Drake               Drake                U     3
+18. Volatile Chimera               Elemental, Chimera   R     3
+28. Benthic Djinn                  Djinn                BU    4
+38. Nemesis of Reason              Leviathan, Horror    BU    5
+39. Harbinger of the Hunt          Dragon               GR    5
+40. Nath of the Gilt-Leaf          Elf, Warrior         BG    5
+41. Sages of the Anima             Elf, Wizard          GU    5
+49. Sphinx of the Final Word       Sphinx               U     7
+51. Sphinx Sovereign               Sphinx               BUW   8
+
+Beast Cut
+00. Scalpelexis                    Beast                U     5
+01. Bumbling Pangolin              Pangolin, Beast      R     4
+02. Indrik Stomphowler             Beast                G     5
+03. Ghor-Clan Rampager             Beast                GR    4
+04. Zhur-Taa Ancient               Beast                GR    5
+05. Sabertooth Nishoba             Cat, Beast, Warrior  GW    6
+06. Trygon Predator                Beast                GU    3
+07. Bull Cerodon                   Beast                RW    6
+08. Greater Gargadon               Beast                R     10
+
+Animals
+00. Storm Crow                     Bird                 U     0
+01. Humming-                       Bird                 W     0
+02. Adorable Kitten                Cat                  W     1
+04. Snickering Squirrel            Squirrel, Advisor    B     1
+06. Birds of Paradise              Bird                 G     1
+11. Savannah Lions                 Cat                  W     1
+14. Black Cat                      Zombie, Cat          B     2
+15. Dirty Rat                      Rat                  B     2
+17. Common Iguana                  Lizard               R     2
+18. Grizzly Bears                  Bear                 G     2
+19. Hungry Lynx                    Cat                  G     2
+20. Sakura-Tribe Elder             Snake, Shaman        G     2
+22. Wild Crocodile                 Crocodile            G     2
+23. Baleful Strix                  Bird                 BU    2
+26. Aven Mindcensor                Bird, Wizard         W     3
+28. Ordinary Pony                  Horse                W     3
+32. Esperzoa                       Jellyfish            U     3
+33. Eager Beaver                   Beaver               G     3
+34. Squirrel Mob                   Squirrel             G     3
+40. Aetherstorm Roc                Bird                 W     4
+43. Numbing Jellyfish              Jellyfish            U     4
+46. Big Boa Constrictor            Snake                B     4
+48. Bumbling Pangolin              Pangolin, Beast      R     4
+57. Stinging Scorpion              Scorpion             B     5
+58. Feisty Stegosaurus             Dinosaur             R     5
+59. Mother Kangaroo                Kangaroo             G     5
+62. Labro Bot                      Hound                      5
+64. Earl of Squirrel               Squirrel, Noble, Advisor G     6
+65. Sabertooth Nishoba             Cat, Beast, Warrior  GW    6
+
+Humans
+00. Ruthless Ripper                Human, Assassin      B     1
+02. Diligent Farmhand              Human, Druid         G     1
+06. Magus of the Vineyard          Human, Wizard        G     1
+08. Hidden Dragonslayer            Human, Warrior       W     2
+09. Dreamscape Artist              Human, Spellshaper   U     2
+13. Silent Assassin                Human, Mercenary, Assassin B     2
+14. Silumgar Assassin              Human, Assassin      B     2
+15. Dragon Whisperer               Human, Shaman        R     2
+19. Deathcap Cultivator            Human, Druid         BG    2
+20. Den Protector                  Human, Warrior       G     2
+21. Mayor of Avabruck              Human, Advisor, Werewolf G     2
+23. Battlewise Hoplite             Human, Soldier       UW    2
+24. X                              Human, Spy           BU    2
+25. Burning-Tree Emissary          Human, Shaman        GR    2
+28. Cartel Aristocrat              Human, Advisor       BW    2
+29. Honored Crop-Captain           Human, Warrior       RW    2
+31. Exultant Cultist               Human, Wizard        U     3
+32. Stealer of Secrets             Human, Rogue         U     3
+35. Undercity Informer             Human, Rogue         B     3
+36. Combat Celebrant               Human, Warrior       R     3
+37. Flamespeaker Adept             Human, Shaman        R     3
+38. Impetuous Protege              Human, Warrior       R     3
+41. Eternal Witness                Human, Shaman        G     3
+42. Yavimaya Elder                 Human, Druid         G     3
+44. Shadowmage Infiltrator         Human, Wizard        BU    3
+45. Renegade Rallier               Human, Warrior       GW    3
+46. Veteran Warleader              Human, Soldier, Ally GW    3
+52. Grixis Battlemage              Human, Wizard        BRU   3
+53. Yasova Dragonclaw              Human, Warrior       GRU   3
+54. Cunning Lethemancer            Human, Wizard        B     3
+55. Reborn Hero                    Human, Soldier       W     3
+58. Nekrataal                      Human, Assassin      B     4
+61. Squirrel Wrangler              Human, Druid         G     4
+62. Grand Arbiter Augustin IV      Human, Advisor       UW    4
+65. Heron's Grace Champion         Human, Knight        GW    4
+66. Mystic Enforcer                Human, Nomad, Mystic GW    4
+67. Vhati il-Dal                   Human, Warrior       BG    4
+72. Lightwielder Paladin           Human, Knight        W     5
+74. Magus of the Future            Human, Wizard        U     5
+79. Nut Collector                  Human, Druid         G     6
+80. Nut Collector                  Human, Druid         G     6
+
+BS
+00. Zombified                      Zombie               B     0
+01. Ornithopter                    Thopter                    0
+02. Ornithopter                    Thopter                    0
+03. Mindlash Sliver                Sliver               B     1
+04. Striking Sliver                Sliver               R     1
+07. Stromgald Crusader             Zombie, Knight       B     2
+12. Hibernation Sliver             Sliver               BU    2
+18. Leech Bonder                   Merfolk, Soldier     U     3
+20. Simic Fluxmage                 Merfolk, Wizard      U     3
+21. Dusk Urchins                   Ouphe                B     3
+23. Geralf's Messenger             Zombie               B     3
+26. Raging Kavu                    Kavu                 GR    3
+27. Harmonic Sliver                Sliver               GW    3
+29. Necrotic Sliver                Sliver               BW    3
+31. Frenetic Sliver                Sliver               RU    3
+33. Necravolver                    Volver               BGW   3
+35. Voracious Vacuum               Construct                  3
+37. Chronozoa                      Illusion             U     4
+41. Toxin Sliver                   Sliver               B     4
+42. Amplifire                      Elemental            R     4
+44. Flametongue Kavu               Kavu                 R     4
+45. Forgotten Ancient              Elemental            G     4
+46. Lhurgoyf                       Lhurgoyf             G     4
+47. Duskmantle Seer                Vampire, Wizard      BU    4
+52. Scornful Aether-Lich           Zombie, Wizard       BUW   4
+54. Gnome-Made Engine              Construct                  4
+56. Pulmonic Sliver                Sliver               W     5
+59. Vesuvan Shapeshifter           Shapeshifter         U     5
+60. Corpse Connoisseur             Zombie, Wizard       B     5
+61. Garbage Elemental              Elemental            R     5
+62. Garbage Elemental              Elemental            R     5
+65. The Mimeoplasm                 Ooze                 BGU   5
+67. Brine Elemental                Elemental            U     6
+68. Armada Wurm                    Wurm                 GW    6
+73. Maelstrom Wanderer             Elemental            GRU   8

@@ -1,0 +1,39 @@
+ 3. Hedron Crab                    Crab                 U     1
+ 5. Kird Ape                       Ape                  R     1
+ 7. Birds of Paradise              Bird                 G     1
+ 8. Scute Mob                      Insect               G     1
+ 9. Squirrel Dealer                Raccoon, Lizard, Bird G     1
+10. Judge's Familiar               Bird                 UW    1
+12. Adorned Pouncer                Cat                  W     2
+13. Dream Thrush                   Bird                 U     2
+16. Nezumi Graverobber             Rat, Rogue           B     2
+21. Sakura-Tribe Elder             Snake, Shaman        G     2
+24. Baleful Strix                  Bird                 BU    2
+25. Putrid Leech                   Zombie, Leech        BG    2
+27. Kinjalli's Sunwing             Dinosaur             W     3
+29. Roc Egg                        Bird, Egg            W     3
+30. Keeper of the Nine Gales       Bird, Wizard         U     3
+31. Raven Familiar                 Bird                 U     3
+35. Nyx Weaver                     Spider               BG    3
+36. Bounding Krasis                Fish, Lizard         GU    3
+37. Scarland Thrinax               Lizard               BGR   3
+38. Sprouting Thrinax              Lizard               BGR   3
+39. Burnished Hart                 Elk                        3
+41. High Sentinels of Arashin      Bird, Soldier        W     4
+42. Heliod's Emissary              Elk                  W     4
+44. Reef Worm                      Worm                 U     4
+45. Thassa's Emissary              Crab                 U     4
+47. Erebos's Emissary              Snake                B     4
+49. Rukh Egg                       Bird, Egg            R     4
+50. Quarry Hauler                  Camel                G     4
+51. Nylea's Emissary               Cat                  G     4
+52. Corpsejack Menace              Fungus               BG    4
+53. Sludge Strider                 Insect               BUW   4
+54. Siege Rhino                    Rhino                BGW   4
+55. Wingmate Roc                   Bird                 W     5
+56. Deepglow Skate                 Fish                 U     5
+60. Silklash Spider                Spider               G     5
+61. Marrow Chomper                 Zombie, Lizard       BG    5
+63. Mirror-Sigil Sergeant          Rhino, Soldier       W     6
+66. Slaying Mantis                 Insect, Wrestler     G     7
+67. Elder Deep-Fiend               Eldrazi, Octopus     U     8

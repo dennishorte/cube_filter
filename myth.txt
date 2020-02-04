@@ -1,0 +1,39 @@
+ 1. Dryad Arbor                    Forest, Dryad        G     0
+ 2. Skyshroud Elite                Elf                  G     1
+ 3. Dryad Militant                 Dryad, Soldier       GW    1
+ 6. Ire Shaman                     Orc, Shaman          R     2
+ 7. Quirion Elves                  Elf, Druid           G     2
+ 8. Hooded Hydra                   Snake, Hydra         G     2
+10. Lotleth Troll                  Zombie, Troll        BG    2
+11. Zameck Guildmage               Elf, Wizard          GU    2
+12. Cylian Sunsinger               Elf, Shaman          GRW   2
+13. Diving Griffin                 Griffin              W     3
+14. Master Trinketeer              Dwarf, Artificer     W     3
+16. Wormfang Drake                 Nightmare, Drake     U     3
+17. Maralen of the Mornsong        Elf, Wizard          B     3
+19. Generous Patron                Elf, Advisor         G     3
+20. Leovold's Operative            Elf, Rogue           G     3
+21. Siren of the Silent Song       Zombie, Siren        BU    3
+22. Enigma Drake                   Drake                RU    3
+23. Spellheart Chimera             Chimera              RU    3
+24. Boros Reckoner                 Minotaur, Wizard     RW    3
+25. Thornscape Battlemage          Elf, Wizard          GRW   3
+26. Opaline Unicorn                Unicorn                    3
+27. Avaricious Dragon              Dragon               R     4
+29. Bloodbraid Elf                 Elf, Berserker       GR    4
+30. Polis Crusher                  Cyclops              GR    4
+31. Reaper of the Wilds            Gorgon               BG    4
+32. Brion Stoutarm                 Giant, Warrior       RW    4
+33. Shattergang Brothers           Goblin, Artificer    BGR   4
+34. Retaliator Griffin             Griffin              GRW   4
+35. Brutal Hordechief              Orc, Warrior         BRW   4
+36. Djinn of Wishes                Djinn                U     5
+37. Hoarding Dragon                Dragon               R     5
+42. Sages of the Anima             Elf, Wizard          GU    5
+43. Hypersonic Dragon              Dragon               RU    5
+44. Sage of the Inward Eye         Djinn, Wizard        RUW   5
+45. Party Crasher                  Goblin, Berserker    R     5
+46. Conquering Manticore           Manticore            R     6
+47. Inferno Titan                  Giant                R     6
+48. Sharuum the Hegemon            Sphinx               BUW   6
+50. Enigma Sphinx                  Sphinx               BUW   7

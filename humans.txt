@@ -1,0 +1,39 @@
+ 1. Dragonmaster Outcast           Human, Shaman        R     1
+ 3. Noble Hierarch                 Human, Druid         GUW   1
+ 4. Sunscape Apprentice            Human, Wizard        GUW   1
+ 7. Daring Skyjek                  Human, Knight        W     2
+10. Lighthouse Chronologist        Human, Wizard        U     2
+11. Timestream Navigator           Human, Pirate, Wizard U     2
+12. Willbender                     Human, Wizard        U     2
+16. Frazzled Editor                Human, Bureaucrat    R     2
+17. Tilonalli's Summoner           Human, Shaman        R     2
+18. Young Pyromancer               Human, Shaman        R     2
+22. Rattleclaw Mystic              Human, Shaman        GRU   2
+26. Burning-Tree Emissary          Human, Shaman        GR    2
+27. Saffi Eriksdotter              Human, Scout         GW    2
+30. Proud Mentor                   Human, Warrior       W     3
+33. Cunning Lethemancer            Human, Wizard        B     3
+34. Steady-Handed Mook             Human, Rigger        B     3
+39. Kruin Outlaw                   Human, Rogue, Werewolf R     3
+40. Manic Vandal                   Human, Warrior       R     3
+43. Yavimaya Elder                 Human, Druid         G     3
+47. Vorel of the Hull Clade        Human, Merfolk       GU    3
+48. Jhoira of the Ghitu            Human, Wizard        RU    3
+49. Naya Battlemage                Human, Shaman        GRW   3
+50. Sunscape Battlemage            Human, Wizard        GUW   3
+51. Merieke Ri Berit               Human                BUW   3
+56. Sakashima's Student            Human, Ninja         U     4
+57. Whirler Rogue                  Human, Rogue, Artificer U     4
+59. Captivating Crew               Human, Pirate        R     4
+60. Pia and Kiran Nalaar           Human, Artificer     R     4
+63. Hostage Taker                  Human, Pirate        BU    4
+64. Huntmaster of the Fells        Human, Werewolf      GR    4
+68. Fathom Mage                    Human, Wizard        GU    4
+69. Sunscape Master                Human, Wizard        GUW   4
+70. Daghatar the Adamant           Human, Warrior       BGW   4
+71. Thorn of the Black Rose        Human, Assassin      B     4
+73. Clocknapper                    Human, Spy           U     5
+75. Azor's Elocutors               Human, Advisor       UW    5
+76. Lavinia of the Tenth           Human, Soldier       UW    5
+77. Bear's Companion               Human, Warrior       GRU   5
+78. Surrak Dragonclaw              Human, Warrior       GRU   5
